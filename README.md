@@ -14,7 +14,7 @@ An expense tracking application built using the **MERN** stack (MongoDB, Express
 
 ## Demo
 
-Check out the demo video: [Expense Tracker Demo](https://your-video-link.com/demo.mp4)
+Check out the demo video: [Expense Tracker Demo](https://github.com/shanu9144/Expense_Tracker-App/blob/master/App%20working%20recording.mp4)
 
 ## Table of Contents
 
