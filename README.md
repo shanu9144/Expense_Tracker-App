@@ -2,7 +2,7 @@
 
 An expense tracking application built using the **MERN** stack (MongoDB, Express, React, and Node.js) that helps users manage their finances by tracking their income and expenses. The app also sends an email alert if expenses exceed $10,000 using **NodeMailer**.
 
-![Expense Tracker](https://your-image-link.com/expense-tracker.png)
+![Expense Tracker](https://github.com/shanu9144/Expense_Tracker-App/blob/master/Screenshot%202024-09-11%20231802.png)
 
 ## Features
 
